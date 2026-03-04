@@ -7,8 +7,11 @@ Project Vision
 The Token Roadmap
 
 Phase 1: $NOSHIT    Pump.fun      Rocket Fuel: Liquidity seeding for the ecosystem.
+
 Phase 2: $GIVEAWAY  Raydium/Jup   Social-Fi Engine: 1%/5% tax powering bi-weekly AI/Senate rewards.
+
 Phase 3: $PREDICTOR Raydium/Jup   The House: Direct utility for the P2P Prediction Market.
+
 Phase 4: $GENIE     CEX/DEX       The Anchor: Standard deflationary token for the entire Launchpad.
 
 The Loyalty Loop (Staking & Airdrops)
