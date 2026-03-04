@@ -39,4 +39,5 @@ Vesting: 25-week linear release (4% weekly).
 ​Notice: $GIVEAWAY is a for-profit enterprise. All rewards are discretionary distributions from realized profits. The Prediction Market is subject to Malta licensing.
 
 ​📞 Connect with the Genie
-​X (Twitter): @cryptotaurus0, @NOSHIT_ccoin, @GENIE_launchpad, @giveaway_cryp1
+​
+X (Twitter): @cryptotaurus0, @NOSHIT_ccoin, @GENIE_launchpad, @giveaway_cryp1
