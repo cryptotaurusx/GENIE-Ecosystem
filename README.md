@@ -1,3 +1,18 @@
+UPDATE
+March 29, 2026
+
+We have decided to go with a huge new trend.
+The #NOKINGS movement.
+New token being launched today (Marh 29), to take immediate advantage of the hype.
+And to support the movement.
+Token will be launched on Jupiter Studio, with swap fees.
+And we have designed the tokenomics to keep it sustainable and keep the hype going.
+We are sharing the fees.
+0.25% of volume will be used to buyback and burn, starting at a market cap of $500k.
+0.25% of volume will be used to buyback and distribute to the community, starting at a market cap of $500k.
+Read the full tokenomics and follow @cryptotaurus0 on X for details and not to miss the launch.
+
+
 # GENIE-Ecosystem
 The Genie Ecosystem: From Hype to Utility ​A Multi-Token Meritocratic Super-Structure on Solana ​Welcome to the Genie Ecosystem, a 35-year finance-veteran-led project designed to bridge the gap between high-velocity Social-Fi and sustainable licensed P2P Prediction Markets.
 
